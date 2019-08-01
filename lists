@@ -1,0 +1,21 @@
+{
+    "list": {
+        "packages": ["starter", "professional", "institutional"],
+        "account_type": [{
+            "stock": {
+                "name": "stock",
+                "unit": "share"
+            }
+        }, {
+            "forex": {
+                "name": "forex",
+                "unit": "pip"
+            }
+        }, {
+            "futures": {
+                "name": "futures",
+                "unit": "contract"
+            }
+        }]
+    }
+}
