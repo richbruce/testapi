@@ -16,6 +16,7 @@
                 "name": "futures",
                 "unit": "contract"
             }
-        }]
+        }],
+        "brokers": ["generic", " suretrader"]
     }
 }
